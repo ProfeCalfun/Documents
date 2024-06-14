@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Franciso_calfun" id="FF7EBDED-8FEF-A770-66C6-BA05367274B1" version="3.5">
+<createdBy>Calfún</createdBy>
+<createdTime>2024-06-14 16:39:26 UTC</createdTime>
+<ownerDesignName>Franciso_calfun</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FF7EBDED-8FEF-A770-66C6-BA05367274B1</designId>
+</OSDM_Design>
